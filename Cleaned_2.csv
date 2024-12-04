@@ -1,0 +1,201 @@
+bp (Diastolic),bp limit,sg,al,class,rbc,su,pc,pcc,ba,bgr,bu,sod,sc,pot,hemo,pcv,rbcc,wbcc,htn,dm,cad,appet,pe,ane,grf,stage,affected,age
+Low,Normal,1.019,1.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,11.3,33.5,4.46,7360.0,No,No,No,Good,No,No,227.944,Stage 1,Both,12.0
+Low,Normal,1.009,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,11.3,33.5,4.46,12120.0,No,No,No,Good,No,No,227.944,Stage 1,Both,12.0
+Low,Normal,1.009,4.0,Yes,Abnormal,No Trace,Abnormal,Not present,Present,112.0,Slightly Elevated,133.0,Very Low,Low,8.7,29.6,4.46,14500.0,No,No,No,Poor,No,No,127.281,Stage 1,Both,12.0
+Normal,Stage 1 Hypertension,1.009,3.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,13.9,41.3,4.46,7360.0,No,No,No,Good,No,No,127.281,Stage 1,Both,12.0
+Low,Normal,1.015,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,154.0,Low,133.0,Very Low,Low,13.9,37.4,5.05,7360.0,No,Yes,No,Poor,Yes,No,127.281,Stage 1,Both,12.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,16.5,49.1,5.05,4980.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,12.0
+Low,Normal,1.019,3.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,10.0,29.6,3.28,7360.0,Yes,Yes,No,Good,No,No,177.612,Stage 1,Both,12.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,11.3,37.4,4.46,4980.0,No,No,No,Good,No,No,26.6175,Stage 4,Both,12.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,13.9,37.4,5.05,4980.0,No,No,No,Good,No,No,26.6175,Stage 4,Left or Right,20.0
+Normal,Stage 2 Hypertension,1.009,4.0,Yes,Normal,No Trace,Abnormal,Present,Present,112.0,Low,123.0,Very Low,Low,7.4,21.8,3.87,12120.0,No,No,No,Good,No,Yes,51.7832,Stage 3,Both,20.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,12.6,41.3,6.23,7360.0,No,No,No,Good,No,No,76.949,Stage 2,Left or Right,20.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,15.2,45.2,5.05,4980.0,No,No,No,Good,No,No,152.446,Stage 1,Left or Right,20.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,11.3,37.4,6.23,9740.0,No,No,No,Good,No,No,76.949,Stage 1,Left or Right,20.0
+Low,Normal,1.015,2.0,Yes,Normal,Very High,Abnormal,Not present,Not present,406.0,Low,133.0,Very Low,Low,11.3,41.3,4.46,4980.0,No,Yes,No,Good,Yes,No,76.949,Stage 2,Both,20.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,15.2,41.3,4.46,4980.0,No,No,No,Good,No,No,26.6175,Stage 4,Left or Right,20.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,12.6,45.2,4.46,4980.0,No,No,No,Good,No,No,202.778,Stage 1,Left or Right,20.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,15.2,37.4,5.05,7360.0,No,No,No,Good,No,No,202.778,Stage 1,Left or Right,20.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,123.0,Low to Moderate,Low,11.3,37.4,4.46,7360.0,No,No,No,Poor,Yes,Yes,26.6175,Stage 4,Both,20.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,11.3,41.3,6.23,7360.0,No,No,No,Good,No,No,152.446,Stage 1,Left or Right,27.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,13.9,41.3,5.05,7360.0,No,No,No,Good,No,No,76.949,Stage 1,Left or Right,27.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,16.5,49.1,4.46,9740.0,No,No,No,Good,No,No,202.778,Stage 1,Left or Right,27.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,13.9,41.3,5.64,7360.0,No,No,No,Good,No,No,127.281,Stage 1,Left or Right,27.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,148.0,Very Low,Low,12.6,41.3,5.64,9740.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,27.0
+Normal,Stage 2 Hypertension,1.023,1.0,Yes,Abnormal,No Trace,Abnormal,Not present,Not present,112.0,Severe,118.0,Severe,Low,6.1,17.9,2.69,4980.0,Yes,Yes,No,Poor,Yes,Yes,26.6175,Stage 5,Both,27.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,16.5,49.1,5.64,4980.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,27.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,15.2,49.1,5.64,4980.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,27.0
+Normal,Stage 2 Hypertension,1.015,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,11.3,33.5,4.46,4980.0,No,No,No,Good,No,No,102.115,Stage 1,Both,27.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,12.6,41.3,4.46,4980.0,No,No,No,Good,No,No,152.446,Stage 1,Left or Right,27.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,16.5,45.2,5.64,7360.0,No,No,No,Good,No,No,177.612,Stage 1,Left or Right,27.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,12.6,49.1,6.23,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,27.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,15.2,45.2,5.05,4980.0,No,No,No,Good,No,No,177.612,Stage 1,Left or Right,27.0
+Normal,Stage 1 Hypertension,1.007,3.0,Yes,Abnormal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,8.7,25.7,4.46,7360.0,No,No,No,Good,Yes,No,26.6175,Stage 4,Both,27.0
+Normal,Stage 1 Hypertension,1.009,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,11.3,33.5,4.46,7360.0,No,No,No,Good,No,No,26.6175,Stage 4,Both,35.0
+Normal,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,15.2,49.1,5.64,4980.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,35.0
+Normal,Stage 2 Hypertension,1.009,0.0,Yes,Abnormal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,13.9,41.3,5.05,4980.0,Yes,No,No,Good,No,No,51.7832,Stage 2,Both,35.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,12.6,41.3,6.23,4980.0,No,No,No,Good,No,No,177.612,Stage 1,Left or Right,35.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,15.2,37.4,4.46,7360.0,No,No,No,Good,No,No,152.446,Stage 1,Left or Right,35.0
+Low,Normal,1.009,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,10.0,29.6,4.46,7360.0,No,Yes,No,Good,No,No,102.115,Stage 1,Both,35.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,148.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Good,No,No,127.281,Stage 1,Left or Right,35.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,16.5,37.4,5.64,4980.0,No,No,No,Good,No,No,152.446,Stage 1,Left or Right,35.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,16.5,49.1,5.64,4980.0,No,No,No,Good,No,No,127.281,Stage 1,Left or Right,35.0
+Normal,Stage 2 Hypertension,1.015,4.0,Yes,Normal,No Trace,Abnormal,Not present,Present,112.0,Slightly Elevated,128.0,Very Low,Low,10.0,37.4,4.46,7360.0,Yes,No,No,Poor,No,No,51.7832,Stage 3,Both,35.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,13.9,49.1,4.46,4980.0,No,No,No,Good,No,No,127.281,Stage 1,Left or Right,35.0
+Normal,Stage 2 Hypertension,1.019,2.0,Yes,Abnormal,No Trace,Abnormal,Present,Not present,112.0,High,138.0,Very Low,Low,8.7,33.5,4.46,9740.0,No,No,No,Poor,Yes,Yes,26.6175,Stage 4,Both,35.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,13.9,45.2,4.46,4980.0,No,No,No,Good,No,No,152.446,Stage 1,Left or Right,43.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,11.3,41.3,4.46,7360.0,No,No,No,Good,No,No,76.949,Stage 2,Left or Right,43.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,148.0,Very Low,Low,13.9,49.1,6.23,7360.0,No,No,No,Good,No,No,76.949,Stage 1,Left or Right,43.0
+Normal,Stage 2 Hypertension,1.009,1.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,13.9,45.2,4.46,7360.0,No,No,No,Good,No,No,76.949,Stage 2,Both,43.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,12.6,45.2,3.87,7360.0,No,No,No,Good,No,No,26.6175,Stage 4,Left or Right,43.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,15.2,41.3,5.05,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,43.0
+Low,Normal,1.009,2.0,Yes,Normal,No Trace,Abnormal,Present,Not present,238.0,Slightly Elevated,133.0,Low to Moderate,Low,10.0,25.7,4.46,7360.0,Yes,Yes,No,Good,No,No,26.6175,Stage 4,Both,43.0
+Normal,Stage 1 Hypertension,1.019,3.0,Yes,Normal,No Trace,Abnormal,Not present,Not present,406.0,Slightly Elevated,133.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Poor,No,No,26.6175,Stage 4,Both,43.0
+Low,Normal,1.023,2.0,Yes,Normal,No Trace,Abnormal,Present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,10.0,29.6,3.28,16880.0,No,No,No,Good,No,No,26.6175,Stage 3,Both,43.0
+Low,Normal,1.009,2.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Moderate,133.0,Very Low,Low,7.4,25.7,4.46,4980.0,No,No,Yes,Good,No,Yes,26.6175,Stage 3,Both,43.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,13.9,41.3,5.64,7360.0,No,No,No,Good,No,No,127.281,Stage 1,Left or Right,43.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,15.2,49.1,4.46,4980.0,No,No,No,Good,No,No,76.949,Stage 2,Left or Right,43.0
+Low,Normal,1.015,1.0,Yes,Abnormal,No Trace,Normal,Not present,Not present,112.0,Moderate,128.0,Low to Moderate,Low,7.4,25.7,4.46,7360.0,No,No,No,Good,No,Yes,26.6175,Stage 5,Both,43.0
+Low,Normal,1.009,1.0,Yes,Normal,No Trace,Normal,Not present,Not present,154.0,Moderate,138.0,Very Low,Low,8.7,25.7,2.69,14500.0,Yes,Yes,No,Good,No,No,26.6175,Stage 4,Both,43.0
+Normal,Stage 2 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,196.0,Slightly Elevated,143.0,Very Low,Low,8.7,37.4,4.46,7360.0,Yes,Yes,No,Good,No,No,26.6175,Stage 4,Both,43.0
+Normal,Stage 1 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Moderate,138.0,Low to Moderate,Low,11.3,37.4,4.46,7360.0,Yes,No,No,Poor,No,No,26.6175,Stage 5,Both,43.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,148.0,Very Low,Low,12.6,41.3,4.46,7360.0,No,No,No,Good,No,No,177.612,Stage 1,Left or Right,43.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,15.2,37.4,5.05,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,43.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,12.6,49.1,5.05,7360.0,No,No,No,Good,No,No,76.949,Stage 1,Left or Right,43.0
+Normal,Stage 1 Hypertension,1.023,4.0,Yes,Normal,No Trace,Abnormal,Not present,Not present,112.0,Very High,133.0,Moderate to high,Low,8.7,29.6,3.28,4980.0,Yes,No,No,Good,No,Yes,26.6175,Stage 5,Both,43.0
+Normal,Stage 1 Hypertension,1.015,0.0,Yes,Normal,Moderate,Normal,Not present,Not present,196.0,Low,138.0,Very Low,Low,12.6,37.4,4.46,7360.0,No,Yes,No,Poor,No,No,51.7832,Stage 2,Both,43.0
+Normal,Stage 2 Hypertension,1.015,3.0,Yes,Abnormal,No Trace,Normal,Present,Not present,112.0,Severe,118.0,Very High,Low,7.4,25.7,2.69,4980.0,Yes,No,Yes,Good,No,Yes,26.6175,Stage 5,Both,43.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,13.9,45.2,4.46,7360.0,No,No,No,Good,No,No,76.949,Stage 1,Left or Right,43.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,16.5,49.1,6.23,4980.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,43.0
+Normal,Stage 2 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Low to Moderate,Low,6.1,17.9,2.69,4980.0,Yes,No,Yes,Poor,No,No,26.6175,Stage 5,Both,43.0
+Normal,Stage 2 Hypertension,1.009,3.0,Yes,Abnormal,No Trace,Abnormal,Not present,Not present,112.0,High,118.0,High,Low,7.4,21.8,3.28,7360.0,Yes,Yes,No,Poor,Yes,Yes,26.6175,Stage 5,Both,43.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,148.0,Very Low,Low,13.9,45.2,4.46,9740.0,No,No,No,Good,No,No,127.281,Stage 1,Left or Right,43.0
+Low,Normal,1.009,2.0,Yes,Normal,Very High,Abnormal,Present,Not present,448.0,Slightly Elevated,133.0,Low to Moderate,Low,8.7,25.7,4.46,7360.0,Yes,Yes,No,Good,No,Yes,26.6175,Stage 4,Both,43.0
+Normal,Stage 2 Hypertension,1.015,1.0,Yes,Abnormal,No Trace,Abnormal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Good,Yes,No,26.6175,Stage 4,Both,43.0
+Normal,Stage 2 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Moderate,123.0,Low to Moderate,Low,6.1,17.9,4.46,4980.0,Yes,Yes,No,Good,Yes,Yes,26.6175,Stage 5,Both,43.0
+Normal,Stage 2 Hypertension,1.009,2.0,Yes,Normal,No Trace,Abnormal,Present,Present,112.0,Severe,133.0,Moderate to high,Low,7.4,21.8,2.69,14500.0,No,No,No,Poor,Yes,Yes,26.6175,Stage 5,Both,43.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,196.0,Low,138.0,Very Low,Low,11.3,33.5,3.87,9740.0,No,No,No,Good,No,No,51.7832,Stage 2,Both,51.0
+Normal,Stage 2 Hypertension,1.015,2.0,Yes,Abnormal,No Trace,Abnormal,Not present,Not present,112.0,Moderate,128.0,Low to Moderate,Low,6.1,17.9,4.46,4980.0,Yes,No,No,Good,Yes,Yes,26.6175,Stage 5,Both,51.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,15.2,45.2,6.23,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,51.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,High,128.0,Moderate to high,Low,11.3,37.4,4.46,7360.0,Yes,Yes,No,Good,No,No,26.6175,Stage 5,Both,51.0
+Normal,Stage 2 Hypertension,1.015,2.0,Yes,Normal,No Trace,Normal,Not present,Present,112.0,Low,143.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Poor,No,No,26.6175,Stage 3,Both,51.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,12.6,45.2,5.05,7360.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,51.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,16.5,37.4,5.64,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,51.0
+Normal,Stage 2 Hypertension,1.015,4.0,Yes,Normal,High,Abnormal,Not present,Not present,196.0,Very High,133.0,Low to Moderate,Extremely High,7.4,21.8,2.69,4980.0,Yes,Yes,No,Good,No,Yes,26.6175,Stage 5,Both,51.0
+Normal,Stage 2 Hypertension,1.015,3.0,Yes,Normal,No Trace,Abnormal,Present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,10.0,29.6,3.87,7360.0,Yes,Yes,No,Good,No,Yes,26.6175,Stage 3,Both,51.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,13.9,49.1,5.05,4980.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,51.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,16.5,41.3,4.46,4980.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,51.0
+Normal,Stage 2 Hypertension,1.009,1.0,Yes,Abnormal,High,Normal,Not present,Not present,196.0,Low,138.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,Yes,No,Good,No,No,76.949,Stage 2,Both,51.0
+Normal,Stage 2 Hypertension,1.019,2.0,Yes,Abnormal,No Trace,Abnormal,Present,Not present,112.0,Moderate,118.0,Moderate to high,Low,8.7,25.7,3.28,9740.0,Yes,Yes,No,Poor,No,Yes,26.6175,Stage 5,Both,51.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,15.2,41.3,5.05,7360.0,No,No,No,Good,No,No,76.949,Stage 2,Left or Right,51.0
+Normal,Stage 2 Hypertension,1.015,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,10.0,33.5,3.28,4980.0,No,No,No,Poor,No,Yes,26.6175,Stage 3,Both,51.0
+Normal,Stage 2 Hypertension,1.015,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Both,51.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,High,138.0,Moderate to high,Low,10.0,33.5,4.46,7360.0,No,No,No,Good,No,No,26.6175,Stage 5,Both,51.0
+Normal,Stage 1 Hypertension,1.019,3.0,Yes,Normal,No Trace,Abnormal,Not present,Not present,196.0,Moderate,128.0,Low to Moderate,Low,8.7,37.4,4.46,7360.0,Yes,Yes,No,Poor,Yes,No,26.6175,Stage 5,Both,51.0
+Normal,Stage 2 Hypertension,1.023,1.0,Yes,Normal,No Trace,Abnormal,Not present,Not present,112.0,Low,138.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Poor,Yes,Yes,51.7832,Stage 2,Both,51.0
+Normal,Stage 2 Hypertension,1.015,1.0,Yes,Normal,Very High,Normal,Not present,Not present,280.0,Slightly Elevated,138.0,Very Low,Low,10.0,33.5,3.87,12120.0,Yes,Yes,No,Good,No,No,26.6175,Stage 4,Both,51.0
+Normal,Stage 1 Hypertension,1.009,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,8.7,37.4,4.46,7360.0,No,No,No,Good,No,No,26.6175,Stage 4,Both,51.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,148.0,Very Low,Low,15.2,45.2,4.46,4980.0,No,No,No,Good,No,No,177.612,Stage 1,Left or Right,51.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,16.5,49.1,5.64,4980.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,51.0
+Normal,Stage 2 Hypertension,1.009,2.0,Yes,Abnormal,Trace,Abnormal,Not present,Not present,238.0,Severe,128.0,Very High,Low,7.4,21.8,2.69,14500.0,Yes,Yes,No,Poor,Yes,Yes,26.6175,Stage 5,Both,51.0
+Low,Normal,1.009,3.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Poor,Yes,No,51.7832,Stage 2,Both,51.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,13.9,41.3,5.05,4980.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,51.0
+Normal,Stage 2 Hypertension,1.015,2.0,Yes,Abnormal,No Trace,Abnormal,Not present,Not present,112.0,Moderate,128.0,Low to Moderate,Low,8.7,25.7,3.28,4980.0,Yes,No,No,Good,No,No,26.6175,Stage 5,Both,51.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,12.6,41.3,5.05,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,51.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,148.0,Very Low,Low,15.2,41.3,5.64,9740.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,51.0
+Normal,Stage 1 Hypertension,1.015,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,11.3,33.5,3.28,4980.0,Yes,Yes,No,Good,No,No,26.6175,Stage 3,Both,51.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,13.9,45.2,5.05,4980.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,51.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,13.9,37.4,4.46,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,51.0
+Normal,Normal,1.009,4.0,Yes,Normal,No Trace,Normal,Not present,Not present,238.0,Slightly Elevated,133.0,Very Low,Low,11.3,37.4,4.46,12120.0,Yes,Yes,No,Good,No,No,26.6175,Stage 3,Both,51.0
+Low,Normal,1.009,3.0,Yes,Normal,No Trace,Abnormal,Not present,Not present,238.0,Very High,118.0,High,Low,8.7,29.6,3.28,14500.0,No,Yes,No,Good,Yes,No,26.6175,Stage 5,Both,59.0
+Normal,Stage 2 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Moderate,133.0,Low to Moderate,Low,6.1,37.4,4.46,7360.0,Yes,Yes,No,Good,No,Yes,26.6175,Stage 5,Both,59.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,196.0,Low,123.0,Very Low,Low,8.7,33.5,4.46,4980.0,No,Yes,No,Good,No,No,26.6175,Stage 3,Both,59.0
+Low,Normal,1.009,3.0,Yes,Normal,No Trace,Abnormal,Not present,Not present,112.0,Very High,133.0,Very High,,6.1,21.8,2.69,4980.0,Yes,No,No,Poor,Yes,Yes,26.6175,Stage 5,Both,59.0
+Low,Normal,1.009,1.0,Yes,Abnormal,High,Abnormal,Not present,Not present,406.0,Slightly Elevated,138.0,Very Low,Low,11.3,33.5,3.87,9740.0,Yes,Yes,Yes,Good,No,No,26.6175,Stage 3,Both,59.0
+Normal,Stage 2 Hypertension,1.015,4.0,Yes,Normal,Moderate,Normal,Not present,Not present,238.0,High,133.0,High,Low,6.1,17.9,3.87,9740.0,Yes,Yes,Yes,Good,No,Yes,26.6175,Stage 5,Both,59.0
+Normal,Stage 2 Hypertension,1.019,4.0,Yes,Normal,Moderate,Normal,Not present,Not present,238.0,Low,133.0,Very Low,Low,10.0,29.6,3.87,24020.0,Yes,Yes,No,Poor,Yes,No,26.6175,Stage 4,Both,59.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,13.9,45.2,5.05,9740.0,No,No,No,Good,No,No,177.612,Stage 1,Left or Right,59.0
+Normal,Stage 2 Hypertension,1.019,2.0,Yes,Abnormal,No Trace,Abnormal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,10.0,25.7,4.46,7360.0,Yes,No,No,Poor,No,No,26.6175,Stage 4,Both,59.0
+Low,Normal,1.009,1.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Moderate,133.0,Low to Moderate,Low,12.6,37.4,4.46,7360.0,Yes,No,No,Good,No,No,26.6175,Stage 4,Both,59.0
+Normal,Stage 1 Hypertension,1.019,0.0,Yes,Normal,Moderate,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,Yes,No,Good,No,No,26.6175,Stage 4,Both,59.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,15.2,41.3,5.64,9740.0,No,No,No,Good,No,No,26.6175,Stage 4,Left or Right,59.0
+Low,Normal,1.009,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,238.0,Slightly Elevated,118.0,Very Low,Low,11.3,37.4,3.28,4980.0,Yes,No,No,Good,No,No,26.6175,Stage 3,Both,59.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,11.3,37.4,4.46,7360.0,Yes,No,No,Good,No,No,26.6175,Stage 4,Both,59.0
+Normal,Stage 2 Hypertension,1.009,3.0,Yes,Abnormal,Extremely High,Normal,Not present,Present,448.0,Moderate,128.0,Very Low,Low,11.3,33.5,4.46,9740.0,Yes,Yes,No,Good,No,No,26.6175,Stage 4,Both,59.0
+Normal,Stage 2 Hypertension,1.009,2.0,Yes,Abnormal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,10.0,29.6,3.87,9740.0,No,No,No,Good,No,No,26.6175,Stage 3,Both,59.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,13.9,37.4,5.05,9740.0,No,No,No,Good,No,No,177.612,Stage 1,Left or Right,59.0
+Low,Normal,1.009,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Both,59.0
+Normal,Stage 1 Hypertension,1.009,1.0,Yes,Normal,Moderate,Normal,Not present,Not present,154.0,Low,133.0,Very Low,Low,10.0,33.5,4.46,7360.0,No,Yes,Yes,Poor,No,No,26.6175,Stage 4,Both,59.0
+Low,Normal,1.009,2.0,Yes,Normal,No Trace,Abnormal,Present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,8.7,25.7,3.28,19260.0,Yes,Yes,No,Poor,No,Yes,26.6175,Stage 4,Both,59.0
+Normal,Stage 1 Hypertension,1.015,2.0,Yes,Abnormal,No Trace,Abnormal,Not present,Not present,154.0,High,133.0,Low to Moderate,Low,7.4,21.8,2.69,7360.0,Yes,Yes,Yes,Poor,Yes,Yes,26.6175,Stage 4,Both,59.0
+Normal,Stage 1 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,11.3,33.5,4.46,7360.0,No,No,No,Good,No,No,102.115,Stage 1,Both,59.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,16.5,49.1,5.05,4980.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,59.0
+Low,Normal,1.015,3.0,Yes,Abnormal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,13.9,41.3,4.46,9740.0,Yes,Yes,No,Good,No,No,26.6175,Stage 4,Both,59.0
+Low,Normal,1.023,3.0,Yes,Normal,No Trace,Abnormal,Not present,Not present,112.0,Low,133.0,Very Low,Low,11.3,37.4,3.87,7360.0,Yes,Yes,No,Good,No,No,26.6175,Stage 3,Both,59.0
+Normal,Stage 1 Hypertension,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,16.5,41.3,4.46,4980.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,59.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,15.2,49.1,5.64,4980.0,No,No,No,Good,No,No,127.281,Stage 1,Left or Right,59.0
+Low,Normal,1.015,1.0,Yes,Normal,No Trace,Abnormal,Present,Not present,112.0,Low,133.0,Very Low,Low,10.0,29.6,3.28,4980.0,Yes,No,Yes,Good,No,No,26.6175,Stage 3,Both,59.0
+Normal,Stage 2 Hypertension,1.019,2.0,Yes,Normal,Trace,Normal,Not present,Not present,154.0,Low,138.0,Very Low,Low,12.6,45.2,5.64,9740.0,Yes,No,No,Good,No,No,26.6175,Stage 4,Both,59.0
+Low,Normal,1.009,3.0,Yes,Abnormal,No Trace,Abnormal,Present,Not present,364.0,Slightly Elevated,128.0,Very Low,Low,10.0,29.6,3.28,4980.0,Yes,Yes,No,Poor,Yes,No,26.6175,Stage 4,Both,59.0
+Normal,Stage 1 Hypertension,1.009,2.0,Yes,Normal,Moderate,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,12.6,37.4,3.87,9740.0,Yes,No,Yes,Good,No,No,26.6175,Stage 4,Both,59.0
+Normal,Stage 2 Hypertension,1.015,3.0,Yes,Normal,Moderate,Abnormal,Present,Not present,448.0,Slightly Elevated,133.0,Very Low,Low,11.3,37.4,4.46,9740.0,Yes,Yes,No,Good,No,Yes,26.6175,Stage 4,Both,59.0
+Normal,Stage 2 Hypertension,1.015,4.0,Yes,Abnormal,Moderate,Abnormal,Not present,Present,154.0,Slightly Elevated,138.0,Moderate to high,Low,7.4,25.7,3.28,7360.0,Yes,Yes,No,Good,Yes,No,26.6175,Stage 5,Both,59.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Moderate,133.0,Moderate to high,Low,7.4,17.9,4.46,7360.0,Yes,Yes,Yes,Good,Yes,Yes,26.6175,Stage 5,Both,59.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,148.0,Very Low,Low,13.9,41.3,4.46,7360.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,59.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,13.9,45.2,4.46,7360.0,No,No,No,Good,No,No,76.949,Stage 2,Left or Right,59.0
+Low,Normal,1.009,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,11.3,33.5,3.87,9740.0,No,Yes,No,Good,No,No,26.6175,Stage 3,Both,59.0
+Low,Normal,1.015,4.0,Yes,Normal,Very High,Normal,Present,Not present,280.0,Low,133.0,Very Low,Low,10.0,37.4,4.46,4980.0,Yes,Yes,No,Good,No,No,26.6175,Stage 3,Both,59.0
+Normal,Stage 1 Hypertension,1.009,3.0,Yes,Normal,High,Normal,Not present,Not present,280.0,Slightly Elevated,128.0,Low to Moderate,Low,10.0,29.6,3.87,7360.0,Yes,Yes,Yes,Good,No,No,26.6175,Stage 5,Both,59.0
+Low,Normal,1.009,2.0,Yes,Normal,No Trace,Abnormal,Present,Not present,154.0,Low,128.0,Very Low,Low,11.3,37.4,4.46,7360.0,Yes,Yes,No,Poor,No,No,26.6175,Stage 3,Both,59.0
+Low,Normal,1.009,2.0,Yes,Normal,No Trace,Normal,Present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,10.0,33.5,4.46,7360.0,No,No,No,Good,No,No,26.6175,Stage 4,Both,59.0
+Low,Normal,1.015,1.0,Yes,Normal,No Trace,Normal,Not present,Not present,196.0,Low,133.0,Very Low,Low,11.3,33.5,3.87,4980.0,Yes,Yes,No,Poor,Yes,No,51.7832,Stage 3,Both,59.0
+Normal,Stage 1 Hypertension,1.015,2.0,Yes,Normal,Moderate,Normal,Present,Not present,196.0,High,133.0,Very Low,Low,12.6,37.4,4.46,7360.0,No,Yes,No,Good,No,No,26.6175,Stage 4,Both,59.0
+Normal,Stage 1 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,8.7,21.8,4.46,7360.0,Yes,Yes,Yes,Good,Yes,No,26.6175,Stage 3,Both,59.0
+Normal,Stage 1 Hypertension,1.015,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,8.7,21.8,2.69,9740.0,Yes,No,Yes,Good,Yes,No,26.6175,Stage 3,Both,59.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,15.2,41.3,4.46,7360.0,No,No,No,Good,No,No,76.949,Stage 2,Left or Right,59.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,12.6,41.3,4.46,9740.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,59.0
+Low,Normal,1.019,1.0,Yes,Normal,No Trace,Normal,Not present,Not present,238.0,Low,138.0,Very Low,Low,11.3,37.4,4.46,7360.0,Yes,Yes,No,Good,No,No,26.6175,Stage 3,Both,59.0
+Normal,Stage 1 Hypertension,1.009,1.0,Yes,Normal,High,Abnormal,Not present,Not present,154.0,Extremely Critical,158.0,Critical,,11.3,37.4,4.46,7360.0,No,No,No,Good,Yes,No,26.6175,Stage 5,Both,66.0
+Low,Normal,1.009,1.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,11.3,33.5,3.28,4980.0,Yes,Yes,No,Good,Yes,No,26.6175,Stage 4,Both,66.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,16.5,41.3,5.05,4980.0,No,No,No,Good,No,No,152.446,Stage 1,Left or Right,66.0
+Normal,Stage 2 Hypertension,1.009,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,238.0,Slightly Elevated,133.0,Very Low,Low,8.7,25.7,3.28,7360.0,Yes,Yes,No,Poor,No,No,26.6175,Stage 4,Both,66.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Low to Moderate,Low,8.7,37.4,4.46,7360.0,Yes,Yes,Yes,Poor,Yes,No,26.6175,Stage 5,Both,66.0
+Low,Normal,1.015,3.0,Yes,Normal,Trace,Normal,Present,Not present,196.0,Slightly Elevated,138.0,Very Low,Low,8.7,25.7,3.28,12120.0,Yes,Yes,Yes,Poor,Yes,No,26.6175,Stage 3,Both,66.0
+Low,Normal,1.009,0.0,Yes,Normal,Very High,Normal,Not present,Not present,238.0,Low,138.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Both,66.0
+Low,Normal,1.009,4.0,Yes,Normal,High,Abnormal,Present,Present,196.0,Moderate,118.0,Low to Moderate,Low,8.7,25.7,3.28,9740.0,Yes,Yes,Yes,Good,Yes,Yes,26.6175,Stage 5,Both,66.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,15.2,49.1,5.05,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,66.0
+Normal,Stage 1 Hypertension,1.019,3.0,Yes,Abnormal,No Trace,Normal,Not present,Not present,112.0,Moderate,128.0,Low to Moderate,Low,11.3,37.4,4.46,7360.0,Yes,No,No,Good,No,No,26.6175,Stage 4,Both,66.0
+Normal,Stage 1 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,154.0,Slightly Elevated,138.0,Very Low,Low,10.0,29.6,4.46,7360.0,Yes,No,No,Good,Yes,No,26.6175,Stage 4,Both,66.0
+Normal,Stage 2 Hypertension,1.019,2.0,Yes,Abnormal,Trace,Abnormal,Not present,Present,154.0,Moderate,138.0,Very Low,Low,6.1,37.4,4.46,7360.0,Yes,Yes,Yes,Poor,No,No,26.6175,Stage 4,Both,66.0
+Normal,Normal,1.015,4.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,High,133.0,Low to Moderate,Low,11.3,33.5,7.41,7360.0,Yes,No,No,Good,No,No,26.6175,Stage 5,Both,66.0
+Normal,Stage 2 Hypertension,1.007,1.0,Yes,Normal,No Trace,Abnormal,Present,Not present,154.0,Low,133.0,Very Low,Low,10.0,29.6,4.46,4980.0,Yes,Yes,No,Poor,No,No,26.6175,Stage 4,Both,66.0
+Low,Normal,1.009,3.0,Yes,Normal,No Trace,Abnormal,Present,Present,196.0,Slightly Elevated,133.0,Very Low,Low,10.0,29.6,3.28,4980.0,Yes,Yes,Yes,Good,No,No,26.6175,Stage 4,Both,66.0
+Low,Normal,1.019,3.0,Yes,Normal,Moderate,Normal,Present,Not present,406.0,Low,128.0,Very Low,Low,10.0,29.6,4.46,7360.0,Yes,Yes,Yes,Good,No,No,26.6175,Stage 3,Both,66.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,138.0,Very Low,Low,15.2,41.3,5.05,7360.0,No,No,No,Good,No,No,76.949,Stage 2,Left or Right,66.0
+Normal,Stage 2 Hypertension,1.009,0.0,Yes,Normal,High,Normal,Not present,Not present,280.0,Low,133.0,Very Low,Low,12.6,37.4,4.46,7360.0,Yes,Yes,No,Good,No,No,51.7832,Stage 3,Both,66.0
+Normal,Stage 2 Hypertension,1.015,2.0,Yes,Normal,No Trace,Abnormal,Present,Present,112.0,Slightly Elevated,138.0,Low to Moderate,Low,11.3,29.6,3.87,9740.0,No,No,No,Good,No,No,26.6175,Stage 5,Both,66.0
+Low,Normal,1.015,4.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,High,133.0,Low to Moderate,Low,11.3,33.5,3.87,14500.0,Yes,Yes,No,Poor,Yes,No,26.6175,Stage 5,Both,66.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,13.9,41.3,5.64,9740.0,No,No,No,Good,No,No,76.949,Stage 1,Left or Right,66.0
+Low,Normal,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,16.5,37.4,5.64,4980.0,No,No,No,Good,No,No,152.446,Stage 1,Left or Right,66.0
+Normal,Stage 2 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,196.0,Critical,123.0,Very High,Low,8.7,25.7,4.46,7360.0,Yes,Yes,No,Good,No,Yes,26.6175,Stage 5,Both,66.0
+Normal,Stage 2 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,High,133.0,Moderate to high,Low,11.3,37.4,4.46,7360.0,No,Yes,No,Good,No,No,26.6175,Stage 5,Both,66.0
+Normal,Stage 1 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,138.0,Very Low,Low,8.7,25.7,2.69,4980.0,Yes,Yes,No,Poor,No,Yes,26.6175,Stage 4,Both,66.0
+Normal,Stage 2 Hypertension,1.009,2.0,Yes,Normal,No Trace,Abnormal,Present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Good,No,No,26.6175,Stage 4,Both,66.0
+Normal,Stage 2 Hypertension,1.023,1.0,Yes,Normal,High,Normal,Not present,Not present,322.0,Low,133.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,Yes,Yes,Poor,No,No,26.6175,Stage 3,Both,66.0
+Low,Normal,1.009,1.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,138.0,Very Low,Low,11.3,37.4,4.46,7360.0,No,No,No,Good,No,No,26.6175,Stage 3,Both,66.0
+Normal,Stage 1 Hypertension,1.019,2.0,Yes,Abnormal,No Trace,Abnormal,Not present,Not present,238.0,High,138.0,Low to Moderate,Low,10.0,29.6,3.87,4980.0,Yes,Yes,Yes,Good,No,No,26.6175,Stage 5,Both,66.0
+Low,Normal,1.007,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,123.0,Very Low,Low,10.0,25.7,3.28,16880.0,Yes,Yes,No,Good,Yes,No,76.949,Stage 2,Both,66.0
+Normal,Stage 2 Hypertension,1.015,3.0,Yes,Normal,No Trace,Abnormal,Present,Not present,112.0,Low,138.0,Very Low,Low,10.0,29.6,3.87,7360.0,No,No,No,Poor,No,No,26.6175,Stage 3,Both,66.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,148.0,Very Low,Low,13.9,49.1,4.46,9740.0,No,No,No,Good,No,No,152.446,Stage 1,Left or Right,66.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,143.0,Very Low,Low,16.5,49.1,4.46,4980.0,No,No,No,Good,No,No,127.281,Stage 1,Left or Right,66.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,11.3,37.4,4.46,7360.0,Yes,Yes,No,Good,No,No,26.6175,Stage 3,Both,66.0
+Normal,Stage 1 Hypertension,1.015,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,154.0,Low,138.0,Very Low,Low,11.3,33.5,3.87,9740.0,Yes,Yes,No,Poor,No,No,26.6175,Stage 4,Both,74.0
+Low,Normal,1.019,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,13.9,37.4,5.64,7360.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,74.0
+Low,Normal,1.015,3.0,Yes,Normal,Very High,Abnormal,Present,Not present,112.0,Very High,128.0,Moderate to high,Low,10.0,29.6,3.28,9740.0,Yes,Yes,Yes,Poor,Yes,No,26.6175,Stage 5,Both,74.0
+Low,Normal,1.015,1.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Low,133.0,Very Low,Low,10.0,29.6,4.46,7360.0,Yes,No,No,Good,No,No,26.6175,Stage 3,Both,74.0
+Low,Normal,1.015,2.0,Yes,Normal,No Trace,Abnormal,Present,Not present,196.0,Severe,133.0,High,Low,10.0,33.5,3.87,12120.0,Yes,No,No,Poor,Yes,Yes,26.6175,Stage 5,Both,74.0
+Normal,Stage 2 Hypertension,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,154.0,Low,138.0,Very Low,Low,8.7,29.6,4.46,7360.0,Yes,Yes,No,Good,No,Yes,26.6175,Stage 3,Both,74.0
+Low,Normal,1.019,0.0,Yes,Normal,No Trace,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,7.4,21.8,4.46,7360.0,No,Yes,No,Good,No,Yes,26.6175,Stage 4,Both,74.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,143.0,Very Low,Low,15.2,37.4,6.23,7360.0,No,No,No,Good,No,No,51.7832,Stage 2,Left or Right,74.0
+Normal,Stage 1 Hypertension,1.023,0.0,No,Normal,No Trace,Normal,Not present,Not present,112.0,Low,138.0,Very Low,Low,13.9,45.2,4.46,4980.0,No,No,No,Good,No,No,102.115,Stage 1,Left or Right,74.0
+Normal,Stage 1 Hypertension,1.009,2.0,Yes,Normal,Moderate,Normal,Not present,Not present,112.0,Slightly Elevated,133.0,Very Low,Low,12.6,37.4,3.87,9740.0,Yes,Yes,No,Good,No,No,26.6175,Stage 4,Both,74.0
